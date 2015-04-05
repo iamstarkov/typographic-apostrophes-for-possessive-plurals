@@ -26,9 +26,9 @@ This module gives you typographic apostrophes for posessive plurals and only. Be
 [quotes]: https://www.npmjs.com/package/typographic-quotes
 
 ```js
-var apostrophesForPossessivePlurals = require('typographic-apostrophes-for-possessive-plurals');
+var apostrophesForPlurals = require('typographic-apostrophes-for-possessive-plurals');
 
-apostrophesForPossessivePlurals(`My sisters' friends' investments`); // `My sisters’ friends’ investments`
+apostrophesForPlurals(`My sisters' friends' investments`); // `My sisters’ friends’ investments`
 ```
 
 
