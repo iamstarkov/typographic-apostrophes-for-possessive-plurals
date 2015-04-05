@@ -28,7 +28,8 @@ This module gives you typographic apostrophes for posessive plurals and only. Be
 ```js
 var apostrophesForPlurals = require('typographic-apostrophes-for-possessive-plurals');
 
-apostrophesForPlurals(`My sisters' friends' investments`); // `My sisters’ friends’ investments`
+apostrophesForPlurals(`My sisters' friends' investments`);
+                    // My sisters’ friends’ investments
 ```
 
 
