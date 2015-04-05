@@ -32,6 +32,11 @@ apostrophesForPlurals(`My sisters' friends' investments`);
                     // My sisters’ friends’ investments
 ```
 
+## Real world examples
+
+Check complex usage with real world examples in [typography playground][playground].
+
+[playground]: https://github.com/matmuchrapna/typographic-playground
 
 ## License
 
