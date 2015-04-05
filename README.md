@@ -6,7 +6,7 @@
 [![Dependency Status][depstat-image]][depstat-url]
 [![DevDependency Status][depstat-dev-image]][depstat-dev-url]
 
-> [Make sure they’re curly and point downward][rtfm]
+> [Make sure they’re curly and point downward][rtfm] even for possessive plurals
 
 Micro module to help eliminate one of the [bad typewriter habits][habits].
 
