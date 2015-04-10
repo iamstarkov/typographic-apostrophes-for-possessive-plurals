@@ -13,7 +13,7 @@ Micro module to help eliminate one of the [bad typewriter habits][habits].
 
 ## Install
 
-```sh
+```
 npm install --save typographic-apostrophes-for-possessive-plurals
 ```
 
