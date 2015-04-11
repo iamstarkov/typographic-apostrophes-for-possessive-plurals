@@ -1,6 +1,6 @@
 {
   "name": "typographic-apostrophes-for-possessive-plurals",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Make sure they’re curly and point downward even for possessive plurals",
   "main": "index.es5.js",
   "scripts": {
