@@ -36,7 +36,7 @@ apostrophesForPlurals(`My sisters' friends' investments`);
 
 MIT © [Vladimir Starkov](https://iamstarkov.com/)
 
-[rtfm]: practicaltypography.com/apostrophes.html
+[rtfm]: http://practicaltypography.com/apostrophes.html
 [habits]: http://practicaltypography.com/typewriter-habits.html
 
 [npm-url]: https://npmjs.org/package/typographic-apostrophes-for-possessive-plurals
